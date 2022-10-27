@@ -1,8 +1,10 @@
 # React movies
 
+Happy Halloween! 🎃
 
+see a demo at [ https://react-movies-cjh.web.app]( https://react-movies-cjh.web.app)
 
-In the project directory, you can run:
+## To Run locally
 
 ### `npm start`
 
